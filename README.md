@@ -6,3 +6,5 @@
 
 - [原理](https://github.com/nelsontky/gh-pages-url-shortener)
 
+- [issues存放仓库](https://github.com/we11cheng/gh-pages-url-shortener-collect)
+
